@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Thermostate</string>
+    <string name="contant">Thermostate is an app that is use to set rule
+    like Days Time Temperature and you can edit it and also delate entry accourding to your
+    requirements .</string>
+    <string name="spinner_title">Select Category</string>
+</resources>
